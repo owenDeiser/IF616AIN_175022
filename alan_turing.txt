@@ -1,0 +1,5 @@
+Alan Turing fue un matemático británico que desempeñó un papel crucial en la creación de la ciencia de la computación moderna. Durante la Segunda
+Guerra Mundial, lideró un equipo en Bletchley Park que logró descifrar los códigos secretos de la máquina Enigma utilizada por los nazis, lo que 
+ayudó a acortar la guerra. Además, Turing es conocido por el concepto de la "Máquina de Turing", un modelo teórico que fundteórico que fundamenta
+los principios de la computación moderna. A pesar de sus logros, fue perseguido por su homosexualidad, lo que lo llevó a una trágica muerte 
+en 1954. Hoy, es reconocido como un pionero de la informática y la inteligencia artificial.
